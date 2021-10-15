@@ -23,6 +23,8 @@ img {
 .container{
   max-width: 800px;
   margin: 0 auto;
+  background-color: beige;
+  padding: 25px;
 }
 
 .headingtext{
@@ -49,15 +51,14 @@ img {
 .icon {
   padding: 25px;
   margin-bottom: 22px;
-  border: 1px solid #000;
+
   text-align: left;
-  background-color: lightblue;
 }
 
 .text{
   padding: 25px;
   margin-bottom: 22px;
-  border: 1px solid #000;
+
   text-align: left;
 }
 
